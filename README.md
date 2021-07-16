@@ -5,7 +5,7 @@ This is a clone of the Sympla event application. The difference is that Sympla D
 
 ---
 
-## Result
+## Result :trophy:
 
 <div display="flex" flex-wrap="wrap" >
   <img src="/github/images/home_events.png" width="250">
@@ -23,4 +23,7 @@ This is a clone of the Sympla event application. The difference is that Sympla D
 
 ---
 
+## By :writing_hand:
+
+Guilherme Castelo :D
 
