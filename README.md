@@ -1,7 +1,9 @@
 # sympla_dev
 
-Final Mobile Programming Activity I.
-This is a clone of the Sympla event application. The difference is that Sympla Dev is focused on developer events
+Atividade final da matéria de Programação Mobile I. 
+Este é um clone do aplicativo de evento Sympla pensado para eventos para devs.
+
+Meu segundo app desenvolvido em Flutter.
 
 ---
 
